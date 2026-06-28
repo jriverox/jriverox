@@ -104,8 +104,8 @@ Aplicaciones simples usadas como backend/frontend en los labs de infraestructura
 
 | Repositorio | Descripción |
 |---|---|
-| [fastapi-customers-api-poc](https://github.com/jriverox/fastapi-customers-api-poc) | API REST de customers en FastAPI (Python) |
-| [vanilla-customers-ui-poc](https://github.com/jriverox/vanilla-customers-ui-poc) | Frontend estático en HTML/CSS/JS puro para el lab de VPC |
+| [fastapi-customers-api-demo](https://github.com/jriverox/fastapi-customers-api-demo) | API REST de customers en FastAPI (Python) |
+| [vanilla-customers-ui-demo](https://github.com/jriverox/vanilla-customers-ui-demo) | Frontend estático en HTML/CSS/JS puro para el lab de VPC |
 
 ---
 

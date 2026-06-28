@@ -24,7 +24,7 @@ Práctica hands-on de servicios y arquitecturas AWS. Cada repo documenta un conc
 
 | Repositorio | Descripción |
 |---|---|
-| [aws-lab-vpc-ec2-2tier](https://github.com/jriverox/aws-lab-vpc-ec2-2tier) | VPC, subnets pública/privada, IGW, Route Tables, Nginx reverse proxy |
+| [aws-lab-vpc-public-private-subnets/](https://github.com/jriverox/aws-lab-vpc-public-private-subnets/) | VPC, subnets pública/privada, IGW, Route Tables, Nginx reverse proxy |
 | [aws-serverless-pipeline-cdk-localstack](https://github.com/jriverox/aws-serverless-pipeline-cdk-localstack) | Pipeline serverless con Lambda, SQS y S3 usando AWS CDK + LocalStack |
 | [aws-step-functions-contacts-report-demo](https://github.com/jriverox/aws-step-functions-contacts-report-demo) | Orquestación de workflows con AWS Step Functions |
 | [containers-on-aws-workshop](https://github.com/jriverox/containers-on-aws-workshop) | Workshop de contenedores en AWS (ECS, ECR, Fargate) |
